@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-11-05T06:12:00Z",
+  "market": "FR",
+  "files": [
+    {
+      "name": "snapshot.json",
+      "sha256": "1da2940f23caec821f246f7b76befa66b3e2d760fe8ba97b6841b7f823039417",
+      "bytes": 384008
+    }
+  ],
+  "counts": {
+    "aggregates": 720,
+    "offers": 48,
+    "days": 90
+  }
+}
