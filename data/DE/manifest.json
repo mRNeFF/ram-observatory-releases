@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-05T17:09:28.067Z",
+  "publishedAt": "2026-11-05T17:28:07.850Z",
   "market": "DE",
   "files": [
     {
       "name": "snapshot.json",
-      "sha256": "7b278b301860cd374c025b282987556d4275a78f7a995f081da1929889cd76bb",
-      "bytes": 81331
+      "sha256": "fdbecb334f303f8a4ce2d8037f991a4f370870f4e0cf4c70307598e7779be461",
+      "bytes": 81392
     }
   ],
   "counts": {
@@ -14,5 +14,5 @@
     "offers": 91,
     "days": 1
   },
-  "signature": "bRjpkbL0I7NClGQ3hun+NoVap3Z5pmvH/oY5EZMxAsblokhgF73Ee+CQH/j59iWtzSGgQfmfG5rMaO8rgMa4Dw=="
+  "signature": "Eys1wzzftyq8TsSKBZ2dIdaAfFBAinnbMVUuxOwhoOSdDK+p8gGnyvrfPI1RJjpaQLynVc6yO4aMUF5jh1MYAA=="
 }
