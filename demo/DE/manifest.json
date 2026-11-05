@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-11-05T06:12:00Z",
+  "market": "DE",
+  "files": [
+    {
+      "name": "snapshot.json",
+      "sha256": "6bc9a04a9f9e6528fcd872ab94a8566841c0056200510b01dc09a48def8ad402",
+      "bytes": 383732
+    }
+  ],
+  "counts": {
+    "aggregates": 720,
+    "offers": 48,
+    "days": 90
+  }
+}
