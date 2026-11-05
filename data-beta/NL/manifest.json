@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "publishedAt": "2026-11-05T17:32:01.422Z",
+  "market": "NL",
+  "files": [
+    {
+      "name": "snapshot.json",
+      "sha256": "01ff7c23428da830d7a9ccf1698cc36ca76d9162103d57c50c9ee1ccd9fc15d2",
+      "bytes": 51383
+    }
+  ],
+  "counts": {
+    "aggregates": 32,
+    "offers": 53,
+    "days": 1
+  },
+  "signature": "CLhT8WQQ5Yzrmhcrk6C+sQGNgk0GmqwO7RPWGZIqmhJMCx2rV81gWMc77N+ZOP1OzsD14HOtK4JG259+x9sjCQ=="
+}
