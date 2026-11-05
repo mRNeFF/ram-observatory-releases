@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-05T16:36:43.777Z",
+  "publishedAt": "2026-11-05T17:04:33.990Z",
   "market": "NL",
   "files": [
     {
       "name": "snapshot.json",
-      "sha256": "1aa5c8b6960cc277843aa7c316e3e2c59a523b4c1cc2236eb00227a2286d04f5",
-      "bytes": 35772
+      "sha256": "21f0ca4d477c14a45f6766ad193cd8d38bbf58ba4750b0b6cfac69fa1287d2a1",
+      "bytes": 51322
     }
   ],
   "counts": {
-    "aggregates": 24,
-    "offers": 35,
+    "aggregates": 32,
+    "offers": 53,
     "days": 1
   },
-  "signature": "Nw0VJpYudPbqy3au/SsR7aQq+N3TW2lpK2DYFHQf4otFXSahsbQqlVe5qNasSW3JABRp1tx07J6SLTpwu/7cBw=="
+  "signature": "5upTWvBI8Gxc7IYtWMXAkH8Wi6sUfxjAWMVZU/Sux47PdWmmlHyVN1E2r2t+S8G6+BwcGivLk2KPdfd9q432AQ=="
 }
